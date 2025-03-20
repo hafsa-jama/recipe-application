@@ -1,4 +1,4 @@
-# Build a Recipe Finder for Your Mom | React & TailwindCSS
+# Recipe Finder | React & TailwindCSS
 
 # Run Locally
 
